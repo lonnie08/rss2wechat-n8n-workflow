@@ -9,7 +9,7 @@
 
 ## 📋 功能
 
-- **RSS聚合**：从多个来源如Product Hunt、Stratechery和TestingCatalog拉取最新条目（。
+- **RSS聚合**：从多个来源如Product Hunt、Stratechery和TestingCatalog拉取最新条目。
 - **内容爬取**：使用FireCrawl从RSS链接中获取完整文章内容。
 - **AI润色**：调用 AI Agent将原始内容转换为精美的、可读的新闻简报（Markdown格式）。
 - **格式化**：将Markdown转换为HTML，并将换行替换为`<br>`以在微信中正确渲染。
